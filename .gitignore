@@ -1,0 +1,12 @@
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+.angular/
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
