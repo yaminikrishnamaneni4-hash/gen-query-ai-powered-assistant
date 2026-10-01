@@ -1,0 +1,27 @@
+{
+  "project_name": "GenQuery-AI Powered Assistant",
+  "project_type": "AI Powered Student Assistant",
+  "description": "An AI-powered student assistant that uses Retrieval-Augmented Generation (RAG) to provide relevant answers from documents and manage intelligent conversations.",
+  "frontend": {
+    "technology": "Angular/Ionic",
+    "folder": "studentfe"
+  },
+  "backend": {
+    "technology": "Python Django",
+    "folder": "studentbeapi"
+  },
+  "ai_technology": [
+    "Retrieval-Augmented Generation (RAG)",
+    "Embeddings",
+    "Vector Store",
+    "Large Language Model"
+  ],
+  "main_features": [
+    "User Registration",
+    "User Login",
+    "AI Chat",
+    "Conversation Management",
+    "Document Upload",
+    "RAG-based Question Answering"
+  ]
+}
